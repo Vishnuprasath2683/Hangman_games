@@ -118,7 +118,7 @@ Lives left: 5
 
 ## 👨‍💻 Contributors
 
-* Your Name (@your-username)
+* Vishnuprasath SK (@Vishnuprasath2683)
 
 ---
 
